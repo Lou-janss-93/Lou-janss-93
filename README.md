@@ -34,9 +34,8 @@ Welkom op mijn GitHub-profiel! Hier vind je alles over mijn reis als AI-architec
 
 📫 Contact
 
-- Mail: louis.janssens.ai@gmail.com
-- LinkedIn: Louis Janssens
-- Discord: LouBee\#0093
+- Mail: louis.janssens88@telenet.be
+- Linkedin: www.linkedin.com/in/louis-janss-h-ai-dev
 - Of stuur gewoon een issue of pull request!
 
 ---
