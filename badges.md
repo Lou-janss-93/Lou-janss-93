@@ -9,6 +9,5 @@
 
 [See all my badges on Microsoft Learn](https://learn.microsoft.com/en-us/users/me/achievements#badges-section)
 [![AI Skills Fest Challenge](https://learn.microsoft.com/learn/achievements/challenges-ai-skills-fest.svg)](https://learn.microsoft.com/en-us/challenges/60yka7t3z613dz)
-[![Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/training/achievements/describe-the-concepts-of-security-compliance-and-identity.svg)](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/)
 ...
 [Bekijk al mijn badges op Microsoft Learn](https://learn.microsoft.com/en-us/users/me/achievements#badges-section)
