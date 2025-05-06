@@ -62,9 +62,9 @@ Hij/hem
 💡Projecten in de spotlight
 
 - **HEX**: Defensief AI-systeem met emotionele kern en failsafes.
-- **Witte Lelie (Project-root/EFC)**: Mini-versie van een empathische AI, gratis en open source.
+- **Witte Lelie (Project-root/EFC)**: Mini-versie van een empathische AI, gratis en open source. (https://github.com/Lou-janss-93/Project-Root.git)
 - **TARO**: Tactical Autonomous Real-time Operator, een modulaire AI-orchestrator voor Microsoft Copilot.
-- **Atarashi**: AI-game die emotie, ethiek en innovatie samenbrengt.
+- **Atarashi**: AI-game die emotie, ethiek en innovatie samenbrengt. [Atarashi: Gamified AI voor mentale gezondheid](https://architects-workplace.notion.site/?pvs=4)
 
 ---
 
