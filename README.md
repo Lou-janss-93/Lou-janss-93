@@ -75,6 +75,19 @@ Samen maken we AI veiliger, menselijker en vooral leuker!
 
 ---
 
+**![GenAI Hackaton Finalist Badge]**
+### GenAI Hackaton World Competition 2024
+
+**Status:** Finalist  
+**Recived Date:** 25 maart 2025  
+**Organisator:** GenAI Community  
+
+- ![assertion-gH_2WuMnQWeqzraGkj7Iug](https://github.com/user-attachments/assets/86989203-518d-40ce-8a0d-aa1b18c7dbba)
+
+
+
+---
+
 <!---
 Lou-janss-93/Lou-janss-93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
